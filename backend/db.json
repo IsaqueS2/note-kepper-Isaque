@@ -1,0 +1,29 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Lazer"
+    },
+    {
+      "id": 2,
+      "titulo": "Jogos"
+    },
+    {
+      "id": 3,
+      "titulo": "Compra"
+    }
+  ],
+  "notas": [
+    {
+      "titulo": "Jogar Age IV",
+      "conteudo": "Aprender a jogar certo",
+      "tema": "danger",
+      "categoriaId": "2",
+      "categoria": {
+        "id": 2,
+        "titulo": "Jogos"
+      },
+      "id": 1
+    }
+  ]
+}
